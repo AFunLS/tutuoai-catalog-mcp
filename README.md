@@ -13,7 +13,7 @@ Data is fetched from the public API at `https://www.tutuoai.com/api/catalog-lite
 
 ```bash
 # Clone and run
-git clone https://github.com/anthropic-tutuo/tutuoai-catalog-mcp.git
+git clone https://github.com/AFunLS/tutuoai-catalog-mcp.git
 cd tutuoai-catalog-mcp
 node server.js
 ```
